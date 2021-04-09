@@ -1,3 +1,3 @@
 # HackerEarth-CPP
 
-## This repository consists coding questions written in C++ language.
+## This repository consists solutions to coding questions written in C++ language.
